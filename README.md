@@ -1,2 +1,4 @@
-# quantum-fourier-expressivity
-Code for reproducing the figures in "Constrained and Vanishing Expressivity of Quantum Fourier Models"
+# Constrained and Vanishing Expressivity of Quantum Fourier Models 
+`main.ipynb` Run simple experiment and analysis [TODO: Add Hydra-config setup]
+## Dependencies
+``
