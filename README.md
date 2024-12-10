@@ -1,4 +1,2 @@
 # Constrained and Vanishing Expressivity of Quantum Fourier Models 
-`main.ipynb` Run simple experiment and analysis [TODO: Add Hydra-config setup]
-## Dependencies
-``
+`main.ipynb` Run simple experiment and analysis
